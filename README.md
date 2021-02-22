@@ -1,7 +1,7 @@
 # Xiaomi-Mi-debloat-script
 
 This is a debloat script for Xiaomi devices
-	This script remove all kinds of useless Xiaomi apps and services that come pre installed on devices
-	It removes things like second space, quick ball, app vault and all Xiaomi apps that can be replaced with alternative apss  
+	This script remove all kind of useless Xiaomi apps and services that come pre-installed on devices
+	& all Xiaomi apps that are removed can be replaced with alternative apps  
 
 ***Use at your own risk***
